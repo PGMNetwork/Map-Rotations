@@ -6,11 +6,11 @@
 - In the description, provide video/screenshot information, or explain how to reproduce the issue
 
 ### Suggesting a Rotation Change
-- For changes of **less than 5 maps**, create an **[Issue](https://github.com/PGM/Map-Rotations/issues)**
-- For changes of **more than 5 maps**, create a **[Pull Request](https://github.com/PGM/Map-Rotations/pulls)**
+- For changes of **less than 5 maps**, create an **[Issue](https://github.com/PGMNetwork/Map-Rotations/issues)**
+- For changes of **more than 5 maps**, create a **[Pull Request](https://github.com/PGMNetwork/Map-Rotations/pulls)**
 
 ### Submitting a New Map
-- Create an **[Issue](https://github.com/PGM/Map-Rotations/issues)**
+- Create an **[Issue](https://github.com/PGMNetwork/Map-Rotations/issues)**
 - In the title, include the gamemode in square brackets and the map title. Example: **[DTC] Mapname**
 - In the description, include:
  - A link to an album of screenshots (preferably imgur)
